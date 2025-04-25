@@ -28,6 +28,15 @@ export default function RegisterInfoPage() {
   } = useForm({ resolver: yupResolver(schema) });
 
   const onSubmit = (data: any) => {
+    // Сохраняем файл в localStorage
+    if (data.file) {
+      const file = data.file;
+      localStorage.setItem(
+        "cvFile",
+        JSON.stringify({ name: file.name, type: file.type })
+      );
+    }
+
     console.log("Submitted:", data);
     router.push("/dashboard");
   };

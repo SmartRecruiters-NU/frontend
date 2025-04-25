@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "BTS Digital",
+    "city": "Almaty, Kazakhstan",
+    "email": "contact@btsdigital.kz"
+  },
+  {
+    "id": "2",
+    "name": "Yandex",
+    "city": "Moscow, Russia",
+    "email": "hr@yandex.ru"
+  },
+  {
+    "id": "3",
+    "name": "Google",
+    "city": "Zurich, Switzerland",
+    "email": "europe@google.com"
+  },
+  {
+    "id": "4",
+    "name": "Andix",
+    "city": "Dhaka, Bangladesh",
+    "email": "andix@andix.co"
+  },
+  {
+    "id": "5",
+    "name": "Smart Solutions",
+    "city": "Tashkent, Uzbekistan",
+    "email": "info@smarts.uz"
+  }
+]

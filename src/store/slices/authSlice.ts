@@ -5,6 +5,7 @@ interface AuthState {
   token: string | null;
   user: {
     email: string;
+    role: string;
   } | null;
 }
 
@@ -18,9 +19,15 @@ const authSlice = createSlice({
   name: "auth",
   initialState,
   reducers: {
-    login(state, action: PayloadAction<{ email: string; token: string }>) {
+    login(
+      state,
+      action: PayloadAction<{ email: string; token: string; role: string }>
+    ) {
       state.isLoggedIn = true;
-      state.user = { email: action.payload.email };
+      state.user = {
+        email: action.payload.email,
+        role: action.payload.role,
+      };
       state.token = action.payload.token;
     },
     logout(state) {

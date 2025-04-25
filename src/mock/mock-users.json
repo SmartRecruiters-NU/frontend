@@ -1,0 +1,191 @@
+[
+  {
+    "id": "1",
+    "name": "Amina K.",
+    "email": "amina@job.com",
+    "position": "UI Specialist",
+    "role": "USER",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "2",
+    "name": "Daniyar T.",
+    "email": "daniyar@job.com",
+    "position": "UX Analyst",
+    "role": "USER",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "3",
+    "name": "Aliya N.",
+    "email": "aliya@job.com",
+    "position": "Product Designer",
+    "role": "USER",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "4",
+    "name": "Rustam B.",
+    "email": "rustam@job.com",
+    "position": "Frontend React Dev",
+    "role": "USER",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "5",
+    "name": "Madina E.",
+    "email": "madina@job.com",
+    "position": "Frontend Angular Dev",
+    "role": "USER",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "6",
+    "name": "Serik A.",
+    "email": "serik@job.com",
+    "position": "Junior JS Engineer",
+    "role": "USER",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "7",
+    "name": "Bota Zh.",
+    "email": "bota@job.com",
+    "position": "DevOps Junior",
+    "role": "USER",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "8",
+    "name": "Yerkin T.",
+    "email": "yerkin@job.com",
+    "position": "Site Reliability Intern",
+    "role": "USER",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "9",
+    "name": "Aruzhan M.",
+    "email": "aruzhan@job.com",
+    "position": "CI/CD Enthusiast",
+    "role": "USER",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "10",
+    "name": "Dias S.",
+    "email": "dias@job.com",
+    "position": "Project Manager",
+    "role": "USER",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "11",
+    "name": "Laura K.",
+    "email": "laura@job.com",
+    "position": "Junior PM",
+    "role": "USER",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "12",
+    "name": "Alisher T.",
+    "email": "alisher@job.com",
+    "position": "Agile Coordinator",
+    "role": "USER",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "13",
+    "name": "Zhansaya R.",
+    "email": "zhansaya@job.com",
+    "position": "QA Manual Tester",
+    "role": "USER",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "14",
+    "name": "Nursultan U.",
+    "email": "nursultan@job.com",
+    "position": "QA Automation Intern",
+    "role": "USER",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "15",
+    "name": "Aigerim K.",
+    "email": "aigerim@job.com",
+    "position": "QA Engineer",
+    "role": "USER",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "16",
+    "name": "HR One",
+    "email": "hr1@mail.com",
+    "position": "Senior HR Manager",
+    "role": "HR",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "17",
+    "name": "HR Two",
+    "email": "hr2@mail.com",
+    "position": "Talent Acquisition",
+    "role": "HR",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "12341234"
+  },
+  {
+    "id": "18",
+    "name": "Admin One",
+    "email": "admin1@job.com",
+    "position": "System Administrator",
+    "role": "ADMIN",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "admin1234"
+  },
+  {
+    "id": "19",
+    "name": "Admin Two",
+    "email": "admin2@job.com",
+    "position": "Network Administrator",
+    "role": "ADMIN",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "admin1234"
+  },
+  {
+    "id": "20",
+    "name": "Org Manager",
+    "email": "orgmanager@job.com",
+    "position": "Organization Manager",
+    "role": "ORGANIZATION",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "org1234"
+  },
+  {
+    "id": "21",
+    "name": "Org Assistant",
+    "email": "orgassistant@job.com",
+    "position": "Organization Assistant",
+    "role": "ORGANIZATION",
+    "avatarUrl": "https://via.placeholder.com/40",
+    "password": "org1234"
+  }
+]
