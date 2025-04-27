@@ -159,7 +159,7 @@
     "position": "System Administrator",
     "role": "ADMIN",
     "avatarUrl": "https://via.placeholder.com/40",
-    "password": "admin1234"
+    "password": "12341234"
   },
   {
     "id": "19",
@@ -168,7 +168,7 @@
     "position": "Network Administrator",
     "role": "ADMIN",
     "avatarUrl": "https://via.placeholder.com/40",
-    "password": "admin1234"
+    "password": "12341234"
   },
   {
     "id": "20",
@@ -177,7 +177,7 @@
     "position": "Organization Manager",
     "role": "ORGANIZATION",
     "avatarUrl": "https://via.placeholder.com/40",
-    "password": "org1234"
+    "password": "12341234"
   },
   {
     "id": "21",
@@ -186,6 +186,6 @@
     "position": "Organization Assistant",
     "role": "ORGANIZATION",
     "avatarUrl": "https://via.placeholder.com/40",
-    "password": "org1234"
+    "password": "12341234"
   }
 ]

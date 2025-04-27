@@ -38,7 +38,7 @@ export function middleware(request: NextRequest) {
     url.pathname.startsWith("/organization") &&
     role !== "ORGANIZATION"
   ) {
-    return NextResponse.redirect(new URL("/OrgAdmin", request.url));
+    return NextResponse.redirect(new URL("/Admin", request.url));
   }
 
   return NextResponse.next();

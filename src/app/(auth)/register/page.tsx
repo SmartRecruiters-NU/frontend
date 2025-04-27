@@ -28,7 +28,6 @@ export default function RegisterInfoPage() {
   } = useForm({ resolver: yupResolver(schema) });
 
   const onSubmit = (data: any) => {
-    // Сохраняем файл в localStorage
     if (data.file) {
       const file = data.file;
       localStorage.setItem(
@@ -38,7 +37,7 @@ export default function RegisterInfoPage() {
     }
 
     console.log("Submitted:", data);
-    router.push("/dashboard");
+    router.push("/vacancies");
   };
 
   return (

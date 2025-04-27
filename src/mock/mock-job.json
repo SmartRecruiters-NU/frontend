@@ -20,7 +20,7 @@
     "salary": "$80,000–$100,000",
     "type": "Full-Time",
     "description": "Build modern, scalable web applications.",
-    "status": "OPEN",
+    "status": "SCREENING",
     "createdBy": "hr2@mail.com",
     "savedBy": ["Rustam B.", "Madina E.", "Serik A."],
     "appliedBy": ["Rustam B.", "Madina E.", "Serik A."]
@@ -59,7 +59,7 @@
     "salary": "$85,000–$105,000",
     "type": "Full-Time",
     "description": "Test and ensure the quality of product releases.",
-    "status": "OPEN",
+    "status": "APPLIED",
     "createdBy": "hr1@mail.com",
     "savedBy": ["Zhansaya R.", "Nursultan U.", "Aigerim K."],
     "appliedBy": ["Zhansaya R.", "Nursultan U.", "Aigerim K."]
